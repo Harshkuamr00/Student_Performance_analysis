@@ -1,0 +1,18 @@
+Requirements To Run This Project In System:
+
+Make Sure You have python environment initilized.
+
+If Don't:
+Refer to this link : https://python.land/virtual-environments/virtualenv
+
+Requriments frameworks and library:
+pandas
+numpy
+scikit-learn
+streamlit
+joblib
+
+Optional(if you use them in EDA or Training)
+
+Install all dependencies by pip module package.
+
